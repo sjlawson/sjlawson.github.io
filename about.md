@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Ae coder's profile
+## Ae Fond k8s and then we server!
 
 
 The stack that I've seen the most of is Linux, MySQL, ElasticSearch, Python (Flask or Django) supporting an API for a frontend JS framework like React,
