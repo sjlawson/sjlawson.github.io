@@ -1,5 +1,6 @@
 ---
-permalink: /code-samples/
+title: Featured Code
+permalink: /
 ---
 
 My GitHub repos date back to 2012, so rather than just poking around I think you'll find the following three projects most relevant.  
