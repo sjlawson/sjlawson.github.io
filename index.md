@@ -1,17 +1,30 @@
 ---
-title: Featured Code
-permalink: /
+cover: true
+image: /assets/img/hydejack-8.png
+title: "Portfolio"
+hide_description: false
+description: "I can see that you've walked thousands of miles just to reach this website, but that’s just my homepage. Have fun…"
 ---
 
-My GitHub repos date back to 2012. If you are looking for a developer, I think you'll find the following projects the most relevant rather than just poking around the ancient burial mounds of code.
+## Hi, I'm Samuel 🎉
 
-- This project is a dockerised data ingestion, storage, analysis (just some simple aggregations), and API for a weather dataset.
-  - Can be deployed locally with a single `docker-compose up` command.
-  - [Weather Data API](https://github.com/sjlawson/weatherdata-code-sample)
-- Movie-Link was my coding challenge for ResoluteAI. There are two parts. The largest involved building a complete backend service with API to be used by the frontend.
-  - [Movie Link (Python/Flask backend)](https://github.com/sjlawson/movie-link-backend)
-  - [Movie Link (React frontend)](https://github.com/sjlawson/movie-link-frontend)
-- This is a data and API project related to musicians, genres, and audiences. Sharing the GitLab repo for commit history 
-      - [Music Audience Exchange](https://gitlab.com/sjlawson/maxdata)
-      
+I created this personal website to keep track of my projects, talk about my experience as an Engineer, 
+and give guidance to anyone striving for some knowledge within my expertise. 
+While, just trying to tame the ocean of endless knowledge & to stand out in the crowd one day.
 
+
+
+## Feel Free to Explore
+
+* [Blog]{:.heading.flip-title} --- Just a glimpse into my engineering career.
+* [Projects]{:.heading.flip-title} ---  Overview of my assorted end product ideas.
+* [Mini-Projects]{:.heading.flip-title} ---  My spare time practice projects.
+* [Certifications]{:.heading.flip-title} --- A few achievements, but rare ones.
+* [Resume]{:.heading.flip-title} --- Summarized overview for my amazing experiences.
+{:.related-posts.faded}
+
+[blog]: blog-posts/
+[projects]: projects/
+[mini-projects]: mini-projects/
+[certifications]: certifications/
+[resume]: resume/
