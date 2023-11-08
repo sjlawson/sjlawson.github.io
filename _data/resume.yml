@@ -1,36 +1,42 @@
 basics:
-  name: "Shahzaib Khan"
-  label: "Undergraduate BS(CS) Student"
+  name: "Samuel Lawson"
+  label: "Sr Software and Data Engineer"
   picture: "/assets/icons/icon.png"
-  email: "shazaibahmed0000@gmail.com"
-  phone: "+92-335-6678673"
-  website: "https://hypertextassassin0273.github.io"
- 
+  email: "samuel@coherentautomation.com"
+  phone: "+1 317 750-9126"
+  website: "https://sjlawson.github.io"
+
   summary: >
-    I'm an aspiring student who seeks to learn something new every day. Currently, undergraduate at NUCES FAST-Karachi in BS(CS). <br><br>
-    My interests include Cyber-Security, Artificial Intelligence, Internet of Things, Defense, & Web Development. 
-    However, the list of all my passions extends much further.<br><br>
-    My dream job is to obtain a position where I can grow well to help others around me. 
-    If you're interested in something within my skill-set, or would like to discuss something tech. related then, feel free to reach out.<br><br> 
-    I'd love to talk.<br><br>
-    
-    <i title="Download" class="icon-box-add faded"><strong>  :  </strong></i><a href="/assets/Resume.pdf" class="external"><strong>Resume</strong></a>
-    <br>
-    <i title="Download" class="icon-box-add faded"><strong>  :  </strong></i><a href="/assets/Personal_Statement.pdf" class="external"><strong>Personal Statement</strong></a>
+      Leading and contributing to development of backend and serverless enterprise data-focused
+      applications. I also have extra experience in commodity market data as a founding full stack data
+      and application engineer, as well as life science and business data from US-gov clinical trials, IEEE
+      publications meta data, and S&P Business data.
+      I have over 20 years programming experience with the last 15 years in full-time software engineering roles
+      using 18 programming languages. My background in technology allows me to learn new
+      languages quickly, while my background in education, history, and the arts is valuable for creative
+      thinking - solving problems for which a best-fit solution is less apparent.
+      An example of an application stack in which I have senior experience is Python, Flask or
+      Django, PySpark, MySQL, ElasticSearch, React, Typescript.  <br>
+      If you're interested in something within my skill-set, or would like to discuss something tech. related then, feel free to reach out.<br><br>
+      I'd love to talk.<br><br>
+
+      <i title="Download" class="icon-box-add faded"><strong>  :  </strong></i><a href="/assets/Resume.pdf" class="external"><strong>Resume</strong></a>
+      <br>
+      <i title="Download" class="icon-box-add faded"><strong>  :  </strong></i><a href="/assets/Personal_Statement.pdf" class="external"><strong>Personal Statement</strong></a>
 
   location:
     address: ""
-    postalCode: "74700"
+    postalCode: "46220"
    # region: "North Nazimabad"
-    city: "Karachi"
-    countryCode: "PK"
+    city: "Indianapolis"
+    countryCode: "IN"
   profiles:
     - network: "Github"
-      username: "HypertextAssassin0273"
-      url: "https://github.com/HypertextAssassin0273"
+      username: "sjlawson"
+      url: "https://github.com/sjlawson"
     - network: "LinkedIn"
-      username: "shazaibahmed0273"
-      url: "https://www.linkedin.com/in/shazaibahmed0273"
+      username: "samueljlawson"
+      url: "https://www.linkedin.com/in/samueljlawson"
 # work:
  # - company: "Circadence"
    # position: "Systems Architecture Engineer"
@@ -44,19 +50,19 @@ basics:
      # - "Utilized Software Defined Radio to spawn a custom 4GLTE Base station. Created an operation GUI for users to forward traffic, track logs and maintain Command and Control channels"
 education:
   - institution: >
-      <a href="https://khi.nu.edu.pk">National University of Computer & Emerging Sciences, Karachi</a>
- 
-    area: "Computer Science"
+      <a href="https://iupui.edu">Indiana University-Purdue University-Indianapolis</a>
+
+    area: "Computer Science, Graphics, Music Technology"
     studyType: "Bachelor"
-    startDate: "2019-07-01"
-   # endDate: "2023-05-01"
+   # startDate: ""
+   # endDate: ""
   - institution: >
-      <a href="https://www.facebook.com/GovtDegreeCollegeGulshanEIqbalBlock7">Govt. Degree Science & Commerce College, Gulshan-e-Iqbal</a>
-  
-    area: "Pre-Engineering"
-    studyType: "FSc"
-    startDate: "2017-06-01"
-    endDate: "2019-4-01"
+      <a href="https://butler.edy">Butler University</a>
+
+    area: "Music"
+    studyType: "Master's Degree"
+    # startDate: "2017-06-01"
+    # endDate: "2019-4-01"
 # awards:
  # - title: "Startup School"
    # date: "2018-09-01"
@@ -69,26 +75,37 @@ education:
    # website: "https://blog.particle.io/2019/05/06/learn-how-to-build-in-plants-a-mesh-connected-soil-monitoring-system/"
    # summary: "Utilize the Internet of Things to watch over your house plants."
 skills:
-  - name: "Web Development"
-    level: "Amateur"
+  - name: "Full stack web applications"
+    level: "Professional"
     keywords:
       - "HTML"
       - "CSS"
+      - "Python"
+      - "Django"
+      - "Flask"
+      - "MySQL"
+      - "React"
+      - "Typescript"
       - "Javascript"
-  - name: "MutliCloud Networking"
-    level: "Amateur"
+  - name: "ETL and Data Pipelines"
+    level: "Professional"
     keywords:
-      - "Cloud Security Solutions"
-      - "Cloud Networking Solutions"
+      - "AWS"
+      - "Spark"
+      - "Data engineering"
+      - "NoSQL"
+      - "Machine Learning"
 languages:
+  - language: "Python"
+    fluency: "full-professional proficiency"
   - language: "C"
-    fluency: "full-professional-proficiency"
+    fluency: "full-professional proficiency"
   - language: "C++"
-    fluency: "full-professional-proficiency"
+    fluency: "full-professional proficiency"
   - language: "C#"
-    fluency: "elementary proficiency"  
-  - language: "Javascript"
     fluency: "elementary proficiency"
+  - language: "Javascript"
+    fluency: "full-professional proficiency"
   - language: "Assembly"
     fluency: "limited-working-proficiency"
    # fluency: "professional working proficiency"
@@ -107,6 +124,10 @@ interests:
       - "Wireless Embeded Technology"
       - "4G-LTE"
       - "5G"
+  - name: "Renewable energy markets"
+    keywords:
+      - "Energy markets"
+      - "Renewable"
 # references:
 #   - name: "Erlich Bachman"
 #     reference: >
