@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Samuel Lawson, Ae Code Artisan
+title: Samuel Lawson, 'code artisan'
 email: samuel@coherentautomation.com
 description: > # this means to ignore newlines until "baseurl:"
     A portfolio of featured code repositories
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://sjlawson.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username:
+github_username:  sjlawson
 
 # Build settings
 markdown: kramdown
