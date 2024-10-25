@@ -27,9 +27,9 @@ basics:
   location:
     address: ""
     postalCode: "46220"
-   # region: "North Nazimabad"
+    region: "Indiana"
     city: "Indianapolis"
-    countryCode: "IN"
+    countryCode: "USA"
   profiles:
     - network: "Github"
       username: "sjlawson"
@@ -97,7 +97,7 @@ skills:
       - "Machine Learning"
 languages:
   - language: "Python"
-    fluency: "full-professional proficiency"
+    fluency: "5-5"
   - language: "C"
     fluency: "full-professional proficiency"
   - language: "C++"
