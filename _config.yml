@@ -1,25 +1,20 @@
 # Config
 # ========================================================================================
 
-# IMPORTANT: Set the URL of your site.
-# Set to https://<username>.github.io when hosting on GitHub Pages
-# (unless you are using a custom domain).
-url: https://sjlawson.github.io
 
-# IMPORTANT: Set The "base URL" of your site.
-# When your site sits in a subdirectory, set to /<name of directory>
-# (with leading /, but without the < >).
-# Use the empty string '' otherwise.
-# For GitHub project sites, this is usually the name of the project,
-# e.g. `/hydejack`.
-baseurl: ''
+title: Samuel J. Lawson
+subtitle: Software Engineering Portfolio
+email: samuel@coherentautomation.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://sjlawson.github.io" # the base hostname & protocol for your site
+twitter_username:
+github_username:  sjlawson
+
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
 lang:                  en
 
-# The title of your blog. Used in the sidebar and the browser tab.
-title:                 Samuel Lawson
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -49,11 +44,9 @@ author:
 legal:
   - title:             LICENSE
     href:              /LICENSE/
-#  - title:             Cookies Policy
-#    href:              /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-# copyright:             © 2020. Shazaib Khan - All rights reserved.
+copyright:             © 2020. Samuel Lawson - All rights reserved.
 
 # Format of the permalinks
 permalink:              /:categories/:year-:month-:day-:title/
@@ -353,7 +346,7 @@ jekyll_compose:
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
-        path: /assets/img/sidebar-bg.jpg
+         path: /assets/img/sidebar-bg.jpg
       links:
         - title: Project Link
           url: https://example.com
