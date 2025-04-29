@@ -34,7 +34,7 @@ layout: base
       </button>
       {% assign pdf = site.static_files | find:"path", "/assets/Resume.pdf" %}
       {% if pdf %}
-        <a href="{{ pdf.path | relative_url }}" class="btn btn-sm btn-primary" download>
+        <a href="{{ pdf.path | relative_url }}" target="_blank" class="btn btn-sm btn-primary" download>
           <small class="icon-file-pdf"></small>
           {{ site.data.strings.resume.download_pdf | default: "PDF" }}
         </a>

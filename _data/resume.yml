@@ -3,7 +3,7 @@ basics:
   label: "Sr Software and Data Engineer"
   picture: "/assets/icons/icon.png"
   email: "samuel@coherentautomation.com"
-  phone: "+1 317 750-9126"
+  phone: "+1 317 207-2112"
   website: "https://sjlawson.github.io"
 
   summary: >
@@ -26,7 +26,7 @@ basics:
 
   location:
     address: ""
-    postalCode: "46220"
+    postalCode: ""
     region: "Indiana"
     city: "Indianapolis"
     countryCode: "USA"
@@ -110,24 +110,30 @@ languages:
     fluency: "limited-working-proficiency"
    # fluency: "professional working proficiency"
 interests:
-  - name: "Cyber-Security"
+  - name: "Renewable Energy"
     keywords:
-      - "Physical Security"
-      - "Close Access Technology"
-  - name: "Cloud Computing"
+      - "electric grid"
+      - "wind energy"
+      - "market risk"
+  - name: "Machine Learning"
     keywords:
-      - "Mutli-Cloud Networking"
-      - "Cloud Security"
-      - "Cloud Hybrid Solutions"
+      - "Scikit-Learn"
+      - "Regression analysis"
+      - "Natural Language Processing"
+      - "Data Science"
   - name: "Internet of Things"
     keywords:
-      - "Wireless Embeded Technology"
-      - "4G-LTE"
-      - "5G"
-  - name: "Renewable energy markets"
+      - "Embeded Technology"
+      - "Raspberry Pi"
+      - "Arduino"
+  - name: "Music"
     keywords:
-      - "Energy markets"
-      - "Renewable"
+      - "Education"
+      - "Music Technology"
+      - "Music Production"
+      - "Music Composition"
+      - "History / Musicology"
+
 # references:
 #   - name: "Erlich Bachman"
 #     reference: >
