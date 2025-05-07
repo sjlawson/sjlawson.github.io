@@ -2,10 +2,12 @@
 layout: post
 title:  "Return to C"
 date:   2025-04-16 10:33:21:12 +0000
-categories: jekyll update
-image:
-  path: assets/img/c-logo.png
-
+categories: Code
+image: /assets/img/c-logo.png
+  srcset:
+    1920w: /assets/img/c-logo.png
+    960w: /assets/img/c-logo
+    480w: /assets/img/c-logo
 ---
 
 I first learned C around the year 1990. At the time, we didn't even have a computer that was capable of running a C Compiler. I had a book that was just called, "Learn C Programming," and I just wrote out the assignments long-hand in a notebook.  
@@ -64,3 +66,4 @@ int main(int argc, char **argv) {
 
 ```
 This second version reduces the iterations by skipping numbers that are not multiples of 3. 
+
