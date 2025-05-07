@@ -142,6 +142,8 @@ defaults:
 # These settings are specific to Hydejack.
 
 hydejack:
+  no_img: true
+
   # Configure the order of complementary content on blog posts
   # Available addons: about, newsletter, related, random, comments
   post_addons:         [about, newsletter, comments]

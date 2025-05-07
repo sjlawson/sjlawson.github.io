@@ -2,13 +2,14 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Shahzaib Khan
-  email:             shazaibahmed0000@gmail.com
+  name:              Samuel Lawson
+  email:             samuel@coherentautomation.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    An enthusiastic learner & coder who's eager to enhance his coding skills. Currently, undergraduate at NUCES FAST. Interested in Cyber Security & Artificial Intelligence. <br><br>
+    An enthusiastic learner & coder who's eager to enhance his coding skills.
+    Currently working contracts as a Software Engineer for a variety of projects using Python, Javascript, MongoDB, React, Node. <br><br>
 
 
   # This photo will be used in the about section
@@ -23,14 +24,14 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    github:          HypertextAssassin0273
-    facebook:        shahzaib0273
-    linkedin:        shahzaibkhan0273
-    twitter:         Shahzaib0273
-    stackoverflow:   13753378/hypertextassassin0273
-    email:           shazaibahmed0000@gmail.com
+    github:          sjlawson
+    facebook:
+    linkedin:
+    twitter:
+    stackoverflow:
+    email:           samuel@coherentautomation.com
     # quora:           Shazaib-Ahmed-11
-    # resume:          /assets/Resume.pdf
+    resume:          /assets/Resume.pdf
     # youtube:         <username>
     # rss:             https://<url>/feed.xml
     # google:          <number>
