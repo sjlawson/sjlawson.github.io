@@ -117,11 +117,12 @@ languages:
   - language: "C#"
     fluency: "elementary proficiency"
 interests:
-  - name: "Renewable Energy"
+  - name: "Renewable Energy Data"
     keywords:
       - "electric grid"
       - "wind energy"
-      - "market risk"
+      - "risk mitigation"
+      - "balancing market"
   - name: "Machine Learning"
     keywords:
       - "Scikit-Learn"
