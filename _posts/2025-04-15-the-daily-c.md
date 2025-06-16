@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Return to C"
-date:   2025-04-16 10:33:21:12 +0000
+title:  Return to C
+date:   2025-04-16
 categories: Code
+picture: /assets/img/c-logo.png
 image: /assets/img/c-logo.png
   srcset:
     1920w: /assets/img/c-logo.png
@@ -10,11 +11,13 @@ image: /assets/img/c-logo.png
     480w: /assets/img/c-logo
 ---
 
+## 30 Years with C 
+
 I first learned C around the year 1990. At the time, we didn't even have a computer that was capable of running a C Compiler. I had a book that was just called, "Learn C Programming," and I just wrote out the assignments long-hand in a notebook.  
   
-A few years later I had several courses in college that either taught or used C and C++ and I learned a lot mroe advanced topics, but that old notebook survived, and I still have it today in 2025! However, in my daily professional life, C and C++ are rarely used becuase the language most businesses use for data science, analysis, and application development is Python. Python is an excellent language for developing applications that rely on big data and analytics, but I have decided to polish up my old C skills with a daily(ish) practice log. 
+A few years later I had several courses in college that either taught or used C and C++ and I learned a lot mroe advanced topics, but that old notebook survived, and I still have it today in 2025! However, in my daily professional life, C and C++ are rarely used becuase the language most businesses use for data science, analysis, and application development is Python. Python is an excellent language for developing applications that rely on big data and analytics, but I have decided to polish up my old C skills with a daily(ish) practice log.  
 
-For the first Daily C, I'm taiking the first problem at project Euler.
+For this one, I thought I'd take another look at the first problem at project Euler.
 
 ## Multiples of 3 or 5
 
