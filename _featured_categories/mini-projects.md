@@ -5,5 +5,5 @@ slug: mini-projects
 menu: true
 order: 3
 description: >
-  A collection of miscellaneous mini-projects that I work on in my spare time.
+  Tutorials, blog posts, interesting bits of code
 ---

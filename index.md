@@ -18,7 +18,7 @@ While, just trying to tame the ocean of endless knowledge & to stand out in the 
 
 <!-- * [Blog]{:.heading.flip-title} --- Just a glimpse into my engineering career. -->
 * [Projects]{:.heading.flip-title} ---  Overview of my assorted end product ideas.
-* [Mini-Projects]{:.heading.flip-title} ---  My spare time practice projects.
+* [Mini-Projects]{:.heading.flip-title} --- Tutorials, blog posts, interesting bits of code.
 <!-- * [Certifications]{:.heading.flip-title} --- A few achievements, but rare ones. -->
 * [Resume]{:.heading.flip-title} --- Summarized overview for my amazing experiences.
 {:.related-posts.faded}
